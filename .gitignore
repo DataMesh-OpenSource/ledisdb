@@ -6,3 +6,8 @@ build_config.mk
 var*
 *.log
 bin
+.idea/ledisdb.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/libraries/
