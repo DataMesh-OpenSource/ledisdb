@@ -117,7 +117,7 @@ const (
 	MaxZSetMemberSize int = 1024
 
 	//max set member size
-	MaxSetMemberSize int = 1024
+	MaxSetMemberSize int = 1024 * 1024
 
 	//max value size
 	MaxValueSize int = 1024 * 1024 * 1024
